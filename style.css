@@ -150,7 +150,6 @@ section {
     padding: 0 1rem;
   }
 }
-
 /* Circular image style */
 .home-img img {
   width: 400px;
@@ -258,7 +257,6 @@ section {
     justify-content: center;
     align-items: center;
 }
-
 
 /* Spin animation */
 @keyframes spin {
@@ -389,7 +387,6 @@ section {
 .btn-box .btn:hover::before {
     width: 100%;
 }
-
 .home-sci {
     position: absolute;
     bottom: 4rem;
@@ -399,8 +396,6 @@ section {
     align-items: center;
     left: 9%; /* Adjust as per your layout */
 }
-
-
 .home-sci a {
     position: relative;
     display: inline-flex;
